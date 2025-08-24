@@ -1,4 +1,4 @@
 lets get user data from user
 processing user data
 
-create an avatar for user
+creat a IA
